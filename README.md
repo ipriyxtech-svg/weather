@@ -1,36 +1,254 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
 
-## Getting Started
+# 🌦️ WeatherSphere 3D
 
-First, run the development server:
+### Real-Time Weather Forecast • Interactive UI • Modern Weather Dashboard
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=950&lines=WeatherSphere+3D;Real-Time+Weather+Dashboard;3D+Weather+Experience;Next.js+Weather+Application;Built+by+Priyanshu+Rai"/>
+
+<br>
+
+<img src="https://img.shields.io/github/stars/ipriyxtech-svg/weather?style=for-the-badge"/>
+<img src="https://img.shields.io/github/forks/ipriyxtech-svg/weather?style=for-the-badge"/>
+<img src="https://img.shields.io/github/license/ipriyxtech-svg/weather?style=for-the-badge"/>
+<img src="https://img.shields.io/github/last-commit/ipriyxtech-svg/weather?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,react,css,git,github,vscode"/>
+
+</div>
+
+---
+
+# 📖 About
+
+**WeatherSphere 3D** is a modern weather forecasting application built with **Next.js** and **TypeScript** that delivers real-time weather information through a beautiful interactive interface.
+
+The application provides current weather, forecasts, animated weather visuals, responsive layouts, and a smooth user experience across desktop and mobile devices.
+
+---
+
+# ✨ Features
+
+## 🌍 Weather Information
+
+- Real-Time Weather
+- Current Temperature
+- Humidity
+- Wind Speed
+- Atmospheric Pressure
+- Weather Conditions
+- Feels Like Temperature
+
+---
+
+## 📅 Forecast
+
+- Hourly Forecast
+- Daily Forecast
+- Weather Icons
+- Sunrise & Sunset
+- Dynamic Weather Updates
+
+---
+
+## 🔍 Search
+
+- Search Any City
+- Fast Weather Lookup
+- Location-based Results
+
+---
+
+## 🎨 User Interface
+
+- Modern Glassmorphism Design
+- Responsive Layout
+- Smooth Animations
+- Weather Background Effects
+- Interactive Dashboard
+- Mobile Friendly
+
+---
+
+## ⚡ Performance
+
+- Fast API Requests
+- Optimized Rendering
+- TypeScript Support
+- High Performance
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+- Next.js
+- React
+- TypeScript
+- CSS
+
+### APIs
+
+- Weather API
+- Geolocation API
+
+### Development
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+# 🏗 Architecture
+
+```text
+User
+
+│
+
+▼
+
+Search City
+
+│
+
+▼
+
+Weather API
+
+│
+
+▼
+
+Current Weather
+
+│
+
+├── Forecast
+
+├── Temperature
+
+├── Humidity
+
+├── Wind
+
+└── Weather Conditions
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# 📂 Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```text
+weather/
 
-## Learn More
+├── app/
+├── lib/
+├── public/
+├── package.json
+├── next.config.ts
+├── README.md
+```
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# 🚀 Installation
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```bash
+git clone https://github.com/ipriyxtech-svg/weather.git
 
-## Deploy on Vercel
+cd weather
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+npm install
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+npm run dev
+```
+
+---
+
+# 🌐 Live Demo
+
+https://weather-two-pearl.vercel.app
+
+---
+
+# 📸 Screenshots
+
+| Home | Search | Forecast | Dashboard |
+|------|---------|-----------|------------|
+| 📷 | 📷 | 📷 | 📷 |
+
+---
+
+# 🌟 Highlights
+
+- 🌤 Real-Time Weather
+- 🌍 City Search
+- 📅 Forecast Dashboard
+- 📱 Responsive UI
+- ⚡ Fast Performance
+- 🎨 Beautiful Design
+- ☁ Dynamic Weather Data
+
+---
+
+# 🚀 Future Improvements
+
+- 7-Day Forecast
+- Interactive Weather Maps
+- Air Quality Index
+- UV Index
+- Weather Alerts
+- Multiple Languages
+- Offline Support
+- Voice Search
+- Weather Widgets
+- PWA Support
+
+---
+
+# 📚 Learning Outcomes
+
+- Next.js App Router
+- TypeScript Development
+- API Integration
+- Async Data Fetching
+- Responsive Design
+- State Management
+- Modern UI Development
+
+---
+
+# 👨‍💻 Developer
+
+## Priyanshu Rai
+
+💻 Full Stack Developer
+
+🤖 AI / Machine Learning Engineer
+
+⛓ Blockchain & Web3 Developer
+
+☁ Cloud & DevOps Enthusiast
+
+🌐 Portfolio
+
+https://portfolio-theta-gold-qbsedt4h1o.vercel.app
+
+🐙 GitHub
+
+https://github.com/ipriyxtech-svg
+
+---
+
+<div align="center">
+
+## ⭐ If you found this project useful, please Star ⭐ the repository.
+
+Made with ❤️ by **Priyanshu Rai**
+
+</div>
